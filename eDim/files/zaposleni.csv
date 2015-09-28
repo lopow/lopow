@@ -1,0 +1,77 @@
+id,priimek_ime,delovno_mesto_fk,stara_sifra
+1,VEČ DIMNIKARJEV,,000
+2,Arko Miha,,001
+3,Kovačevič Zora (podvojen),,002
+4,Božič Andrej,,003
+5,Čuček Katarina,,004
+6,Doljak Roman,,005
+7,Ferenčak Jože,,006
+8,Frece Bojan,,007
+9,Gerjolj Peter,,008
+10,Gornjec Stanislav,,009
+11,Gril Gašper,,010
+12,Haliti Đafer,,011
+13,Husić Aida,,012
+14,Jereb Janez,,013
+15,Kovačevič Zora,,014
+16,Lanšček Bojan,,015
+17,Lukavačkič Mirzet,,016
+18,Manohin Mitja,,017
+19,Mihajlovič Željko,,018
+20,Motoh Sergej,,019
+21,Novak Simon,,020
+22,Pavuna Sašo,,021
+23,Pranjič Franjo,,022
+24,Rekar Ines,,023
+25,Relič Branko,,024
+26,Rostan Špela,,025
+27,Semler Matija,,026
+28,Škot Alen,,027
+29,Škrijelj Hasan,,028
+30,Tkalec Tadej,,029
+31,Vidervol Dejan,,030
+32,Zekić Jure,,031
+33,Trifunović Bojan,,032
+34,Ahčin Janez,,033
+35,"REŽIJA-obr.pis.mat,pošte itd..",,034
+36,Koblar Urša,,035
+37,Tavželj Tilen,,036
+38,Šinkovec Jelka,,037
+39,Trtnik Sašo,,038
+40,Planinc Simon,,039
+41,Sefič Elvir,,040
+42,Zajić Safer,,041
+43,BRESKVAR ROBERT,,042
+44,Ašanin Branko,,052
+45,Levstik Robert,,053
+46,Maršič Matjaž,,055
+47,Oton Lana,,056
+48,Mikulič Aleksandra,,061
+49,Potočnik Matevž,,062
+50,Gorše Tina,,063
+51,Tavželj Anton,,064
+52,Mihor Marko,,065
+53,ŠIŠKA - VEČ DIMNIKARJEV,,066
+54,BEŽIGRAD - VEČ DIMNIKARJEV,,067
+55,CENTER - VEČ DIMNIKARJEV,,068
+56,KAMNIK - VEČ DIMNIKARJEV,,069
+57,DOMŽALE - VEČ DIMNIKARJEV,,070
+58,Jarc Mitja,,071
+59,Čiča Dalibor,,072
+60,Zukić Elvis,,073
+61,GROSUPLJE - VEČ DIMNIKAREV,,074
+62,Golub Dražen,,075
+63,Tavželj Blaž,,076
+64,ČETKOVIČ IGOR,,077
+65,Planinc Damjan,,078
+66,ČETKOVIČ + AHČIN,,079
+67,AHČIN+GORNJEC,,080
+68,REZERVA - TT,,100
+69,REZERVA B.A.,,101
+70,REZERVA B.R.,,102
+71,REZERVA T.S.,,103
+72,REZERVA Z.S.,,104
+73,REZERVA DČ,,105
+74,TAVŽELJ ANTON + TAVŽELJ BLAŽ,,106
+75,OBOLNAR ŽIGA,,107
+76,ŽIVKOVIČ MARKO,,108

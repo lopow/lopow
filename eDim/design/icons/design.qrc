@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="novaPredpona">
+    <file>car.png</file>
+    <file>Check-icon.png</file>
+    <file>delete.png</file>
+    <file>design.qrc</file>
+    <file>document_new.png</file>
+    <file>document_save.png</file>
+    <file>dodaj.png</file>
+    <file>edit (1).png</file>
+    <file>edit.png</file>
+    <file>edit_clear (1).png</file>
+    <file>edit_clear.png</file>
+    <file>exit.png</file>
+    <file>filetype_pdf.png</file>
+    <file>gnome_edit_delete.png</file>
+    <file>images.jpg</file>
+    <file>list_all.png</file>
+    <file>mail_new.png</file>
+    <file>new.png</file>
+    <file>new_go_bottom.png</file>
+    <file>novo.png</file>
+    <file>Ok-icon.png</file>
+    <file>pdf (2).png</file>
+    <file>pdf.png</file>
+    <file>pencil.png</file>
+    <file>preklic.png</file>
+    <file>preklic_1.png</file>
+    <file>preklic_2.png</file>
+    <file>printer (1).png</file>
+    <file>printer.png</file>
+    <file>printer2.png</file>
+    <file>printers_faxes.png</file>
+    <file>refresh.png</file>
+    <file>report.png</file>
+    <file>tab_new.png</file>
+    <file>update.png</file>
+    <file>window.png</file>
+    <file>xls (1).png</file>
+    <file>xls (2).png</file>
+    <file>xls.png</file>
+    <file>novo.png</file>
+  </qresource>
+</RCC>
